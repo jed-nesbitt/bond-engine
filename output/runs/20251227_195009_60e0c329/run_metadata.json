@@ -1,0 +1,27 @@
+{
+  "counts": {
+    "rows_error": 0,
+    "rows_ok": 3,
+    "rows_total": 3
+  },
+  "duration_seconds": 0.599,
+  "end_utc": "2025-12-27T08:50:09.834535+00:00",
+  "environment": {
+    "hostname": "LAPTOP-JD67DCF4",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "python_version": "3.12.10",
+    "user": "jed1n"
+  },
+  "input_arg": "input\\example_bonds.csv",
+  "input_resolved": "input\\example_bonds.csv",
+  "out_root": "output",
+  "outputs": {
+    "bond_statistics_csv": "output\\runs\\20251227_195009_60e0c329\\bond_statistics.csv",
+    "bond_statistics_xlsx": "output\\runs\\20251227_195009_60e0c329\\bond_statistics.xlsx"
+  },
+  "run_dir": "output\\runs\\20251227_195009_60e0c329",
+  "run_id": "20251227_195009_60e0c329",
+  "start_local": "2025-12-27T19:50:09.235712+11:00",
+  "start_utc": "2025-12-27T08:50:09.235712+00:00",
+  "status": "success"
+}
