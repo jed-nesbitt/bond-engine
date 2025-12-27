@@ -1,0 +1,4 @@
+bond_id,face,coupon_rate,frequency,issue_date,settle_date,maturity_date,day_count,ytm,clean_price,dirty_price,bump_bp,quantity
+A1,100,5,2,30/06/2025,15/02/2027,30/06/2030,ACT/365F,4.2,,,1,2
+A2,100,3.5,2,15/01/2024,1/08/2026,15/01/2029,30/360 US,,98.25,,1,4
+A3,100,6,1,31/12/2023,20/12/2026,31/12/2031,ACT/365F,,,105.1,1,7
